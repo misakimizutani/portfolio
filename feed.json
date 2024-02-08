@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://misakimizutani.github.io/portfolio/about-me.html",
+            "url": "https://misakimizutani.github.io/portfolio/about-me.html",
+            "title": "About Me",
+            "summary": "Misaki Mizutani, Class of 2024 B.A. Psychology (Digital Humanities Minor and ) I am a driven and versatile individual with a strong passion for technology, marketing, and psychology. With a rich array of experiences, I have effectively curated and executed engaging social media campaigns, harnessed&hellip;",
+            "content_html": "<h1><figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://misakimizutani.github.io/portfolio/media/posts/3/Headshot-thumbnail.jpg\" alt=\"Misaki's headshot in front of Royce Hall\" width=\"720\" height=\"1080\" sizes=\"100vw\" srcset=\"https://misakimizutani.github.io/portfolio/media/posts/3/responsive/Headshot-thumbnail-xs.jpg 300w ,https://misakimizutani.github.io/portfolio/media/posts/3/responsive/Headshot-thumbnail-sm.jpg 480w ,https://misakimizutani.github.io/portfolio/media/posts/3/responsive/Headshot-thumbnail-md.jpg 768w ,https://misakimizutani.github.io/portfolio/media/posts/3/responsive/Headshot-thumbnail-lg.jpg 1024w ,https://misakimizutani.github.io/portfolio/media/posts/3/responsive/Headshot-thumbnail-xl.jpg 1360w ,https://misakimizutani.github.io/portfolio/media/posts/3/responsive/Headshot-thumbnail-2xl.jpg 1600w\"></figure></h1>\n<h4>Misaki Mizutani, Class of 2024</h4>\n<p><em>B.A. Psychology (Digital Humanities Minor and )</em></p>\n<p><span class=\"wixui-rich-text__text\">I am a driven and versatile individual with a strong passion for technology, marketing, and psychology. With a rich array of experiences, I have effectively curated and executed engaging social media campaigns, harnessed the intricacies of child brain development through research, and demonstrated leadership as a director in various campus organizations.</span><span class=\"wixui-rich-text__text\"><span class=\"wixGuard wixui-rich-text__text\">​</span></span></p>",
+            "image": "https://misakimizutani.github.io/portfolio/media/posts/3/DSC01466.png",
+            "author": {
+                "name": "misaki"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-07T21:04:22-08:00",
+            "date_modified": "2024-02-07T21:15:16-08:00"
+        },
+        {
             "id": "https://misakimizutani.github.io/portfolio/my-work.html",
             "url": "https://misakimizutani.github.io/portfolio/my-work.html",
             "title": "My Work",

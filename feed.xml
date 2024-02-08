@@ -3,12 +3,38 @@
     <title>Misaki Mizutani</title>
     <link href="https://misakimizutani.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://misakimizutani.github.io/portfolio" />
-    <updated>2024-02-07T20:42:53-08:00</updated>
+    <updated>2024-02-07T21:15:16-08:00</updated>
     <author>
         <name>misaki</name>
     </author>
     <id>https://misakimizutani.github.io/portfolio</id>
 
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>misaki</name>
+        </author>
+        <link href="https://misakimizutani.github.io/portfolio/about-me.html"/>
+        <id>https://misakimizutani.github.io/portfolio/about-me.html</id>
+        <media:content url="https://misakimizutani.github.io/portfolio/media/posts/3/DSC01466.png" medium="image" />
+
+        <updated>2024-02-07T21:15:16-08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://misakimizutani.github.io/portfolio/media/posts/3/DSC01466.png" alt="View of Los Angeles from the Getty Museum." />
+                    Misaki Mizutani, Class of 2024 B.A. Psychology (Digital Humanities Minor and ) I am a driven and versatile individual with a strong passion for technology, marketing, and psychology. With a rich array of experiences, I have effectively curated and executed engaging social media campaigns, harnessed&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://misakimizutani.github.io/portfolio/media/posts/3/DSC01466.png" class="type:primaryImage" alt="View of Los Angeles from the Getty Museum." /></p>
+                <h1><figure class="post__image post__image--left"><img loading="lazy"  src="https://misakimizutani.github.io/portfolio/media/posts/3/Headshot-thumbnail.jpg" alt="Misaki's headshot in front of Royce Hall" width="720" height="1080" sizes="100vw" srcset="https://misakimizutani.github.io/portfolio/media/posts/3/responsive/Headshot-thumbnail-xs.jpg 300w ,https://misakimizutani.github.io/portfolio/media/posts/3/responsive/Headshot-thumbnail-sm.jpg 480w ,https://misakimizutani.github.io/portfolio/media/posts/3/responsive/Headshot-thumbnail-md.jpg 768w ,https://misakimizutani.github.io/portfolio/media/posts/3/responsive/Headshot-thumbnail-lg.jpg 1024w ,https://misakimizutani.github.io/portfolio/media/posts/3/responsive/Headshot-thumbnail-xl.jpg 1360w ,https://misakimizutani.github.io/portfolio/media/posts/3/responsive/Headshot-thumbnail-2xl.jpg 1600w"></figure></h1>
+<h4>Misaki Mizutani, Class of 2024</h4>
+<p><em>B.A. Psychology (Digital Humanities Minor and )</em></p>
+<p><span class="wixui-rich-text__text">I am a driven and versatile individual with a strong passion for technology, marketing, and psychology. With a rich array of experiences, I have effectively curated and executed engaging social media campaigns, harnessed the intricacies of child brain development through research, and demonstrated leadership as a director in various campus organizations.</span><span class="wixui-rich-text__text"><span class="wixGuard wixui-rich-text__text">​</span></span></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>My Work</title>
         <author>
