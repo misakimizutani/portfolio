@@ -9,5 +9,34 @@
         "name": "misaki"
     },
     "items": [
+        {
+            "id": "https://misakimizutani.github.io/portfolio/my-work.html",
+            "url": "https://misakimizutani.github.io/portfolio/my-work.html",
+            "title": "My Work",
+            "summary": "Bruinsynaptogenesis at UCLA As the current External President &amp; past Director of Marketing of BSG at UCLA, I am responsible for managing the social media, designing promotional posts, and creating the website. See below to view BSG's content and see gallery below for the work&hellip;",
+            "content_html": "<h3><a href=\"https://bruinsynaptogenesis.wixsite.com/bruinsynaptogenesisa\" title=\"https://bruinsynaptogenesis.wixsite.com/bruinsynaptogenesisa\" target=\"_blank\" rel=\"noopener noreferrer\">Bruinsynaptogenesis at UCLA </a></h3>\n<p class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span class=\"color_15 wixui-rich-text__text\">As the current External President &amp; past Director of Marketing of BSG at UCLA, I am responsible for managing the social media, designing promotional posts, and creating the website.</span></span></p>\n<p class=\"font_2 wixui-rich-text__text\"><em><span class=\"wixui-rich-text__text\"><span class=\"color_15 wixui-rich-text__text\">See below to view BSG's content and see gallery below for the work I have done using Wix, Canva, &amp; Photoshop</span></span></em></p>\n<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"8\">\n<figure class=\"gallery__item\"><a href=\"https://misakimizutani.github.io/portfolio/media/posts/2/gallery/EP.png\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://misakimizutani.github.io/portfolio/media/posts/2/gallery/EP-thumbnail.png\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://misakimizutani.github.io/portfolio/media/posts/2/gallery/4.png\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://misakimizutani.github.io/portfolio/media/posts/2/gallery/4-thumbnail.png\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://misakimizutani.github.io/portfolio/media/posts/2/gallery/PAGE-2.png\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://misakimizutani.github.io/portfolio/media/posts/2/gallery/PAGE-2-thumbnail.png\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://misakimizutani.github.io/portfolio/media/posts/2/gallery/Recruitment-Post-PAGE-1.png\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://misakimizutani.github.io/portfolio/media/posts/2/gallery/Recruitment-Post-PAGE-1-thumbnail.png\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://misakimizutani.github.io/portfolio/media/posts/2/gallery/1.png\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://misakimizutani.github.io/portfolio/media/posts/2/gallery/1-thumbnail.png\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://misakimizutani.github.io/portfolio/media/posts/2/gallery/2.png\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://misakimizutani.github.io/portfolio/media/posts/2/gallery/2-thumbnail.png\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://misakimizutani.github.io/portfolio/media/posts/2/gallery/6.png\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://misakimizutani.github.io/portfolio/media/posts/2/gallery/6-thumbnail.png\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://misakimizutani.github.io/portfolio/media/posts/2/gallery/7.png\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://misakimizutani.github.io/portfolio/media/posts/2/gallery/7-thumbnail.png\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n</div></div>\n<h3>The Happiness Hackers – Digital Humanities Project </h3>\n<p class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span class=\"color_15 wixui-rich-text__text\">A data-driven project aimed to explore the relationship of factors leading to happiness around the world. </span></span><span class=\"wixui-rich-text__text\">​</span></p>\n<p class=\"font_2 wixui-rich-text__text\"><span class=\"wixui-rich-text__text\"><span class=\"color_15 wixui-rich-text__text\">As the web designer, I was responsible for creating the visual graphics of the website, creating &amp; analyzing a data visualization on Nordic countries' happiness scores and the timeline. In addition, I aided in researching and writing the conclusion. </span></span></p>\n<p class=\"font_2 wixui-rich-text__text\"><em><span class=\"wixui-rich-text__text\"><span class=\"color_15 wixui-rich-text__text\">See below to view website and see gallery for specific elements I created using Humspace, Wordpress, Tableau, OpenRefine, &amp; TimelineJS. </span></span></em></p>",
+            "image": "https://misakimizutani.github.io/portfolio/media/posts/2/DSC02005.png",
+            "author": {
+                "name": "misaki"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-07T19:17:14-08:00",
+            "date_modified": "2024-02-07T20:42:47-08:00"
+        },
+        {
+            "id": "https://misakimizutani.github.io/portfolio/misakis-portfolio.html",
+            "url": "https://misakimizutani.github.io/portfolio/misakis-portfolio.html",
+            "title": "My Portfolio",
+            "summary": "An exploration of my digital media work from my past internships, organizations, and projects.",
+            "content_html": "<p class=\"msg msg--highlight \">An exploration of my digital media work from my past internships, organizations, and projects.</p>",
+            "author": {
+                "name": "misaki"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-07T17:37:05-08:00",
+            "date_modified": "2024-02-07T20:42:53-08:00"
+        }
     ]
 }
